@@ -1,5 +1,5 @@
 # **下载文件的方法：**
 
-![https://github.com/TimGeeng/-/blob/master/Img/step1.png](https://github.com/TimGeeng/-/blob/master/Img/step1.png)
+![step1](https://raw.githubusercontent.com/TimGeeng/-/master/Img/step1.png)
 
-![https://github.com/TimGeeng/-/blob/master/Img/step1.png](https://github.com/TimGeeng/-/blob/master/Img/step1.png)
+![step2](https://raw.githubusercontent.com/TimGeeng/-/master/Img/step2.png)
